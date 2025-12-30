@@ -1,0 +1,4 @@
+Field,Type,Null,Key,Default,Extra
+id,int,NO,PRI,NULL,auto_increment
+fname,varchar(50),NO,,NULL,
+email,varchar(50),YES,UNI,NULL,
